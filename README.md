@@ -9,5 +9,5 @@ So far we've got:
 
 - the thesis whose copyright belongs to Alexia,
 - the draft of *The Synthesis Kernel* paper, whose copyright belongs to the authors,
-- the published version of *The Synthesis Kernel* paper, whose copyright belongs to the publisher.
-
+- the published version of *The Synthesis Kernel* paper, whose copyright belongs to the publisher,
+- the published version of *Superoptimizer -- A Look at the Smallest Program*, whose copyright belongs to the ACM.
